@@ -38,10 +38,10 @@ public class SmsService {
 //		String msg = "O Vendedor " + sale.getSellerName() + " foi destaque em " + date 
 //				+" com um total de R$ " + String.format("%.2f", sale.getAmount()) ;
 		
-//		String msg = String.format("O vendedor %s foi destaque em %s com um total de R$ %.2f", 
-//				sale.getSellerName(), date, sale.getAmount());
+		String msg = "O vendedor " + sale.getSellerName() + " foi destaque em " + date
+			    + " com um total de R$ " + String.format("%.0f", sale.getAmount());
 		
-		String msg =  "mensagem teste bem sucedida" ;
+		//String msg =  "mensagem teste bem sucedida";
 
 		Twilio.init(twilioSid, twilioKey);
 
