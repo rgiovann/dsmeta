@@ -1,2 +1,2 @@
-# dsmeta
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ef7478ca-94d8-4923-934f-a27856c6f7e3/deploy-status?branch=main)](https://app.netlify.com/sites/rgiovann-dsmeta/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4133cd71-686e-46f9-b9f0-6ed434a28968/deploy-status)](https://app.netlify.com/sites/exquisite-tulumba-8a75e4/deploys)
+
